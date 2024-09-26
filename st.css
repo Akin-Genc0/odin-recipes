@@ -1,0 +1,44 @@
+
+nav {
+   text-align: center;
+}
+
+a:hover{
+ background-color: rgb(218, 255, 184);
+ border-radius: 2vw;
+
+}
+
+
+a{
+    text-decoration:none ;
+    color: black;
+    padding-right: 20px;
+    transition: 0.3s; 
+}
+
+.hero{
+    text-align: center;
+    padding-top: 1rem;
+}
+
+button{
+    width: 7vw;
+    height: 3vw;
+    font-size: 1rem;
+    padding: 14px, 28px;
+    border-radius: 20px;
+    background-color: white;
+    border-width: 2px;
+    border-color: rgb(71, 71, 71);
+    cursor: pointer;
+    
+}
+
+button:hover{
+    background-color: rgb(180, 255, 158);
+    transition: 0.3s; 
+}
+
+
+
